@@ -36,6 +36,7 @@ class App extends Component {
     return (
       <div>
         <h1> TRẦN HỮU DẠT </h1>
+        <iframe title="PHÁT_HIỆN_BẤT_THƯỜNG_KPI_VÀ_PAKH" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ad8bc228-3f29-4668-add7-2e651ae0d9ad&autoAuth=true&ctid=4854ea43-d6dd-42d7-a25f-c0e8d0663795" frameborder="0" allowFullScreen="true"></iframe>
       </div>
     )
   }
